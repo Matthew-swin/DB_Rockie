@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\bin\Debug\DB_Rockie.dacpac
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\bin\Debug\DB_Rockie.dll
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\bin\Debug\DB_Rockie.pdb
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\obj\Debug\DB_Rockie.sqlprojAssemblyReference.cache
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\obj\Debug\Model.xml
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\obj\Debug\refactor.xml
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\obj\Debug\postdeploy.sql
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\obj\Debug\predeploy.sql
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\obj\Debug\DB_Rockie.dll
+C:\Users\matth\source\repos\DB_Rockie\DB_Rockie\DB_Rockie\obj\Debug\DB_Rockie.pdb
